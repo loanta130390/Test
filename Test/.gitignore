@@ -1,6 +1,7 @@
 /target/
-/src/
 /test-output/
 /.classpath
 /.project
 /.settings
+/chromedriver
+/geckodriver
